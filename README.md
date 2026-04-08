@@ -1,2 +1,2 @@
 # CAMBUS
-Centralized app for CAMBUS scheduling - setup test
+Centralized app for CAMBUS scheduling - setup test, pt2
